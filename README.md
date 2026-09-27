@@ -4,7 +4,7 @@ This repository is where I’m learning **LangChain step by step** and experimen
 
 I’m focusing more on understanding how things actually work by **coding, testing, breaking things, and improving them** rather than just learning the theory.
 
-## 📌 What I'm Exploring
+## What I'm Exploring
 
 * LangChain basics
 * Prompts and Chat Models
@@ -17,11 +17,11 @@ I’m focusing more on understanding how things actually work by **coding, testi
 * AI Agents
 * Building practical LLM applications
 
-## 🛠️ Tech I'm Using
+## Tech I'm Using
 
 **Python • LangChain • LLMs • RAG • Vector Databases • APIs**
 
-## 🎯 My Goal
+## My Goal
 
 My goal is to get comfortable with LangChain and understand how it can be used to build **real-world AI and agentic applications**.
 
